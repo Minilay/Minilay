@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi! I am Max</h1>
+  <h1>~Hello! I am Max~</h1>
 </div>
 <div align="center">
   <h3>Developer, mostly on Unity</h3>
