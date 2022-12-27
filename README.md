@@ -9,6 +9,6 @@
 I am passionate about making and playing games. If you are interested in any of these, feel free to contact me through my [Personal Telegram](https://t.me/segaminilay)
 
 ### Contacts: 
-- My [[Telegram Channel]](https://t.me/segadevlogs), where I publish my works:
+- My [Telegram Channel](https://t.me/segadevlogs), where I publish my works:
 - My [Personal Website](https://minilay.dev) (🛠️ Currently under development)
   
